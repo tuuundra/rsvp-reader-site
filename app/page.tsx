@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <div className="min-h-screen bg-[#0D0D0D] text-white">
@@ -14,16 +12,16 @@ export default function Home() {
           </p>
         </section>
 
-        {/* Screenshot */}
+        {/* Demo Video */}
         <section className="mb-12">
           <div className="overflow-hidden rounded-lg border border-gray-800">
-            <Image
-              src="/screenshot.png"
-              alt="RSVP Reader app showing speed reading interface"
-              width={1728}
-              height={1117}
+            <video
+              src="/demo.mp4"
+              autoPlay
+              loop
+              muted
+              playsInline
               className="w-full"
-              priority
             />
           </div>
         </section>
