@@ -68,7 +68,7 @@ export default function Home() {
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <a
-              href="https://buy.stripe.com/test_00wfZg52z5a38Au5ku6AM03"
+              href="https://buy.stripe.com/aFa00i7aHdGz1824gq6AM00"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg border border-gray-700 px-5 py-2.5 font-medium text-white transition-colors hover:bg-gray-800"
@@ -76,7 +76,7 @@ export default function Home() {
               $5
             </a>
             <a
-              href="https://buy.stripe.com/test_bJeaEW66D9qj9Ey8wG6AM04"
+              href="https://buy.stripe.com/9B6dR866DgSL7wq5ku6AM01"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg border border-gray-700 px-5 py-2.5 font-medium text-white transition-colors hover:bg-gray-800"
@@ -84,7 +84,7 @@ export default function Home() {
               $10
             </a>
             <a
-              href="https://buy.stripe.com/test_9B6aEWbqX8mfaICaEO6AM05"
+              href="https://buy.stripe.com/cNi9ASdz5dGzbMGcMW6AM02"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg border border-gray-700 px-5 py-2.5 font-medium text-white transition-colors hover:bg-gray-800"
@@ -92,7 +92,7 @@ export default function Home() {
               $20
             </a>
             <a
-              href="https://buy.stripe.com/test_00wcN43Yv7ib7wqeV46AM06"
+              href="https://buy.stripe.com/00wfZg52z5a38Au5ku6AM03"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg border border-gray-700 px-5 py-2.5 font-medium text-white transition-colors hover:bg-gray-800"
