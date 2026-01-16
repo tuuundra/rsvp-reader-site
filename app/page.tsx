@@ -1,6 +1,12 @@
 export default function Home() {
   return (
     <div className="min-h-screen bg-[#0D0D0D] text-white">
+      {/* Shrek mascot - hidden on smaller screens */}
+      <img
+        src="/shrek-reader.png"
+        alt=""
+        className="fixed bottom-0 left-0 w-64 opacity-80 hidden xl:block pointer-events-none"
+      />
       <main className="mx-auto max-w-[1000px] px-6 py-16 md:py-24">
         {/* Hero Video */}
         <section className="mb-8">
