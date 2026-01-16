@@ -5,7 +5,7 @@ export default function Home() {
       <img
         src="/shrek-reader.png"
         alt=""
-        className="fixed bottom-0 left-0 w-64 opacity-80 hidden xl:block pointer-events-none"
+        className="fixed bottom-0 left-0 w-96 opacity-80 hidden xl:block pointer-events-none"
       />
       <main className="mx-auto max-w-[1000px] px-6 py-16 md:py-24">
         {/* Hero Video */}
@@ -59,10 +59,11 @@ export default function Home() {
         {/* Why RSVP */}
         <section className="mb-16 max-w-2xl mx-auto text-center">
           <p className="text-xl leading-relaxed text-gray-300">
-            Traditional reading wastes time on <span className="text-[#E85D5D]">eye movement</span>.
-            RSVP feeds words directly to your focus point—so you read{" "}
-            <span className="text-white font-bold">faster</span>, with{" "}
-            <span className="text-white font-bold">less eye strain</span>, and{" "}
+            Most people read at <span className="text-white font-bold">200-250 WPM</span>.
+            RSVP eliminates eye movement and lets you hit{" "}
+            <span className="text-[#E85D5D] font-bold">500-1000+ WPM</span>—that's{" "}
+            <span className="text-white font-bold">2-4x faster</span> with{" "}
+            <span className="text-white font-bold">less eye strain</span> and{" "}
             <span className="text-white font-bold">deeper focus</span>.
           </p>
         </section>
