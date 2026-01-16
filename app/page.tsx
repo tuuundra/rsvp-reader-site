@@ -71,7 +71,7 @@ export default function Home() {
         {/* Support Section */}
         <section className="mb-12 text-center">
           <p className="mb-4 text-lg text-gray-300">
-            Any support means the world 🙏
+            Support development
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <a
