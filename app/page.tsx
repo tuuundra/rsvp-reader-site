@@ -21,7 +21,7 @@ export default function Home() {
           <img
             src="/notch-logo.png"
             alt="Notch"
-            className="mx-auto mb-4 h-24 w-24"
+            className="mx-auto mb-4 h-48 w-48"
           />
           <p className="text-lg text-gray-400">
             Speed read anything.
