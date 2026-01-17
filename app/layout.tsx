@@ -19,13 +19,13 @@ export const metadata: Metadata = {
     title: "Notch - Speed Read Anything",
     description: "Free macOS app for speed reading. Read 500+ WPM with Notch.",
     type: "website",
-    images: ["/screenshot.png"],
+    images: ["/og-image.png"],
   },
   twitter: {
     card: "summary_large_image",
     title: "Notch - Speed Read Anything",
     description: "Free macOS app for speed reading. Read 500+ WPM with Notch.",
-    images: ["/screenshot.png"],
+    images: ["/og-image.png"],
   },
 };
 
