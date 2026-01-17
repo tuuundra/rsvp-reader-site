@@ -11,7 +11,7 @@ export default function Home() {
               loop
               muted
               playsInline
-              className="w-full"
+              className="w-full mix-blend-screen"
             />
           </div>
         </section>
