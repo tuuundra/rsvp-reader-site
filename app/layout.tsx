@@ -13,18 +13,18 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "RSVP Reader - Speed Read Anything",
-  description: "Free macOS app for speed reading. Read 500+ WPM with RSVP technology.",
+  title: "Notch - Speed Read Anything",
+  description: "Free macOS app for speed reading. Read 500+ WPM with Notch.",
   openGraph: {
-    title: "RSVP Reader - Speed Read Anything",
-    description: "Free macOS app for speed reading. Read 500+ WPM with RSVP technology.",
+    title: "Notch - Speed Read Anything",
+    description: "Free macOS app for speed reading. Read 500+ WPM with Notch.",
     type: "website",
     images: ["/screenshot.png"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "RSVP Reader - Speed Read Anything",
-    description: "Free macOS app for speed reading. Read 500+ WPM with RSVP technology.",
+    title: "Notch - Speed Read Anything",
+    description: "Free macOS app for speed reading. Read 500+ WPM with Notch.",
     images: ["/screenshot.png"],
   },
 };

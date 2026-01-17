@@ -16,11 +16,13 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Title + Subheader */}
+        {/* Logo + Subheader */}
         <section className="mb-6 text-center">
-          <h1 className="mb-2 text-4xl font-bold tracking-tight md:text-5xl">
-            RSVP R<span className="text-[#E85D5D]">e</span>ader
-          </h1>
+          <img
+            src="/notch-logo.png"
+            alt="Notch"
+            className="mx-auto mb-4 h-24 w-24"
+          />
           <p className="text-lg text-gray-400">
             Speed read anything.
           </p>
@@ -50,12 +52,12 @@ export default function Home() {
           </p>
         </section>
 
-        {/* Why RSVP */}
+        {/* Why Notch */}
         <section className="mb-16 max-w-2xl mx-auto text-center">
           <p className="text-xl leading-relaxed text-gray-300">
             Most people read at <span className="text-white font-bold">200-250 WPM</span>.
-            RSVP eliminates eye movement and lets you hit{" "}
-            <span className="text-[#E85D5D] font-bold">500-1000+ WPM</span>—that's{" "}
+            Notch eliminates eye movement and lets you hit{" "}
+            <span className="text-[#E85D5D] font-bold">500-1000+ WPM</span>—
             <span className="text-white font-bold">2-4x faster</span> with{" "}
             <span className="text-white font-bold">less eye strain</span> and{" "}
             <span className="text-white font-bold">deeper focus</span>.
