@@ -42,16 +42,6 @@ export default function Home() {
           </a>
         </section>
 
-        {/* Toggle Shortcut */}
-        <section className="mb-16 text-center">
-          <p className="text-gray-400">
-            Toggle with{" "}
-            <kbd className="rounded bg-gray-800 px-2 py-1 font-mono text-sm text-white">
-              Alt + /
-            </kbd>
-          </p>
-        </section>
-
         {/* Why Notch */}
         <section className="mb-16 max-w-2xl mx-auto text-center">
           <p className="text-xl leading-relaxed text-gray-300">
@@ -62,6 +52,20 @@ export default function Home() {
             <span className="text-white font-bold">less eye strain</span> and{" "}
             <span className="text-white font-bold">deeper focus</span>.
           </p>
+        </section>
+
+        {/* Demo Section */}
+        <section className="mb-12">
+          <div className="overflow-hidden rounded-lg border border-gray-800">
+            <video
+              src="/rsvp-demo.mp4"
+              autoPlay
+              loop
+              muted
+              playsInline
+              className="w-full"
+            />
+          </div>
         </section>
 
         {/* Support Section */}
@@ -102,20 +106,6 @@ export default function Home() {
             >
               $50
             </a>
-          </div>
-        </section>
-
-        {/* Demo Section */}
-        <section className="mb-12">
-          <div className="overflow-hidden rounded-lg border border-gray-800">
-            <video
-              src="/rsvp-demo.mp4"
-              autoPlay
-              loop
-              muted
-              playsInline
-              className="w-full"
-            />
           </div>
         </section>
 
