@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="min-h-screen bg-[#0D0D0D] text-white">
+    <div className="min-h-screen bg-black text-white">
       <main className="mx-auto max-w-[1000px] px-6 py-16 md:py-24">
         {/* Hero Video */}
         <section className="mb-8">
