@@ -4,7 +4,7 @@ export default function Home() {
       <main className="mx-auto max-w-[1000px] px-6 py-16 md:py-24">
         {/* Hero Video */}
         <section className="mb-8">
-          <div className="overflow-hidden rounded-lg border border-gray-800">
+          <div className="overflow-hidden rounded-lg">
             <video
               src="/demo.mp4"
               autoPlay
