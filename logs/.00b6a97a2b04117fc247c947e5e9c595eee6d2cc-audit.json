@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/dankrakaur/yggdrasil/rsvp-reader-site/logs/.00b6a97a2b04117fc247c947e5e9c595eee6d2cc-audit.json",
+    "files": [
+        {
+            "date": 1768676689802,
+            "name": "/Users/dankrakaur/yggdrasil/rsvp-reader-site/logs/mcp-puppeteer-2026-01-17.log",
+            "hash": "387d10762942a8f74b634fdc17fcd421514c3cbb46a15da49013a4d65afb6eec"
+        }
+    ],
+    "hashType": "sha256"
+}

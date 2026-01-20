@@ -68,47 +68,6 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Support Section */}
-        <section className="mb-12 text-center">
-          <p className="mb-4 text-lg text-gray-300">
-            Support development
-          </p>
-          <div className="flex flex-wrap justify-center gap-3">
-            <a
-              href="https://buy.stripe.com/aFa00i7aHdGz1824gq6AM00"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-lg border border-gray-700 px-5 py-2.5 font-medium text-white transition-colors hover:bg-gray-800"
-            >
-              $5
-            </a>
-            <a
-              href="https://buy.stripe.com/9B6dR866DgSL7wq5ku6AM01"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-lg border border-gray-700 px-5 py-2.5 font-medium text-white transition-colors hover:bg-gray-800"
-            >
-              $10
-            </a>
-            <a
-              href="https://buy.stripe.com/cNi9ASdz5dGzbMGcMW6AM02"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-lg border border-gray-700 px-5 py-2.5 font-medium text-white transition-colors hover:bg-gray-800"
-            >
-              $20
-            </a>
-            <a
-              href="https://buy.stripe.com/00wfZg52z5a38Au5ku6AM03"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-lg border border-gray-700 px-5 py-2.5 font-medium text-white transition-colors hover:bg-gray-800"
-            >
-              $50
-            </a>
-          </div>
-        </section>
-
         {/* Footer */}
         <footer className="text-center text-sm text-gray-500">
           <p>
